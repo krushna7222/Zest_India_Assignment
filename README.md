@@ -188,3 +188,11 @@ Production-style exception handling
 👨‍💻 Author
 Krushna Shahane
 Java Full Stack Developer
+
+<img width="1600" height="968" alt="Screenshot 2026-02-20 091745" src="https://github.com/user-attachments/assets/364ee2e9-9db1-4bda-b826-99d444defa7e" />
+
+<img width="1918" height="1022" alt="2" src="https://github.com/user-attachments/assets/91891935-d0bc-4e8d-b8b0-727cae497f54" />
+
+<img width="1918" height="1022" alt="3" src="https://github.com/user-attachments/assets/3c2afd1e-0d22-474f-bda8-78f897fd73b5" />
+
+
