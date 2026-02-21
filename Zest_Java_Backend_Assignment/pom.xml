@@ -133,6 +133,7 @@
                         <path>
                             <groupId>org.projectlombok</groupId>
                             <artifactId>lombok</artifactId>
+                            <version>1.18.30</version>
                         </path>
                     </annotationProcessorPaths>
                 </configuration>
@@ -144,6 +145,8 @@
             </plugin>
 
         </plugins>
+        
+        <finalName>zest-assignment-0.0.1-SNAPSHOT.jar</finalName>
     </build>
 
 </project>
