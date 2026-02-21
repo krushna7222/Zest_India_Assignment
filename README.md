@@ -185,6 +185,39 @@ Swagger integration with Spring Boot 3
 Production-style exception handling
 
 
+🐳 Docker Image
+
+Docker image is available on Docker Hub:
+
+👉 https://hub.docker.com/r/krushna7222/zest-backend
+
+Pull the image
+docker pull krushna7222/zest-backend:latest
+Run the container
+docker run -p 8080:8080 krushna7222/zest-backend:latest
+
+Application will run at:
+
+http://localhost:8080
+✅ 3️⃣ If You Have MySQL Dependency
+
+If your backend requires MySQL, add this section:
+
+🗄 Run with MySQL (Docker)
+docker run -d --name mysql-db \
+-e MYSQL_ROOT_PASSWORD=root \
+-e MYSQL_DATABASE=zestdb \
+-p 3307:3306 mysql:latest
+
+Then run backend:
+
+docker run -p 8080:8080 \
+-e SPRING_DATASOURCE_URL=jdbc:mysql://host.docker.internal:3307/zestdb \
+-e SPRING_DATASOURCE_USERNAME=root \
+-e SPRING_DATASOURCE_PASSWORD=root \
+krushna7222/zest-backend:latest
+
+
 👨‍💻 Author
 Krushna Shahane
 Java Full Stack Developer
