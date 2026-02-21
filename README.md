@@ -203,7 +203,7 @@ docker run -p 8500:8500 krushna7222/zest-backend:latest
 
 Application will run at:
 
-http://localhost:8080
+http://localhost:8500
 ✅ 3️⃣ If You Have MySQL Dependency
 
 If your backend requires MySQL, add this section:
