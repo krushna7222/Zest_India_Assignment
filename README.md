@@ -191,10 +191,15 @@ Docker image is available on Docker Hub:
 
 👉 https://hub.docker.com/r/krushna7222/zest-backend
 
-Pull the image
+## Docker Image
+
+You can pull and run this application using Docker:
+
+### Pull Image
 docker pull krushna7222/zest-backend:latest
-Run the container
-docker run -p 8080:8080 krushna7222/zest-backend:latest
+
+### Run Container (Port 8500)
+docker run -p 8500:8500 krushna7222/zest-backend:latest
 
 Application will run at:
 
