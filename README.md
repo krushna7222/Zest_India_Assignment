@@ -195,4 +195,13 @@ Java Full Stack Developer
 
 <img width="1918" height="1022" alt="3" src="https://github.com/user-attachments/assets/3c2afd1e-0d22-474f-bda8-78f897fd73b5" />
 
+<img width="1918" height="867" alt="image" src="https://github.com/user-attachments/assets/0b905205-b287-4c90-9088-b153da8b7b05" />
+
+<img width="1919" height="708" alt="image" src="https://github.com/user-attachments/assets/28697752-688c-4c4f-b3f9-2f648e9223f9" />
+
+<img width="1919" height="971" alt="image" src="https://github.com/user-attachments/assets/1fee2e56-9c21-4f35-9340-685afcb61e5d" />
+
+
+
+
 
